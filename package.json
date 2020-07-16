@@ -1,0 +1,22 @@
+{
+  "name": "state-controller",
+  "version": "1.0.0",
+  "description": "manage component's data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragonfly6373/state-controller.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "nguyen.dang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragonfly6373/state-controller/issues"
+  },
+  "homepage": "https://github.com/dragonfly6373/state-controller#readme"
+}
